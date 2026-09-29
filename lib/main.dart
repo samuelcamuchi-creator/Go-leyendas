@@ -20,4 +20,4 @@ SizedBox(height:40),
 ElevatedButton(onPressed:(){},child:Text('SOY PASAJERO')),
 SizedBox(height:20),
 ElevatedButton(onPressed:(){},child:Text('SOY CONDUCTOR')),
-])));}}
+]))));}}
